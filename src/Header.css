@@ -1,0 +1,32 @@
+
+*{
+    
+}
+header{
+    top:0px ; left: 0px; right: 0px;
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 9%;
+    z-index: 1000;
+    
+    
+}
+
+h1{
+    font-weight: 600;
+    
+}
+.logo{
+    color:#000000;
+}
+
+nav a{
+    font-size: 1rem;
+    padding: 0 1rem;
+    color:rgb(0, 0, 0);
+
+    text-decoration: none;
+    font-weight: 600;
+}
